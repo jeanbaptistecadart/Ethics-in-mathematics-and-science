@@ -3,7 +3,7 @@ This series of seminars aims to question the role and responsibility of mathemat
 
 At each seminar, at least one scientist, philosopher, historian, economist, etc will have time to develop their point of view. To do so, the seminars will be composed of one part of discussion between the organizer (<a href="https://jeanbaptistecadart.github.io/">Jean-Baptiste Cadart<a/>) and the speaker, and a second part of question-answer with the assembly.
 
-If you are interested to be in the mailing list to get information about the coming events, please contact jean-baptiste.cadart@proton.me
+If you are interested to be in the mailing list to get information about the coming events, please answer to <a href="https://docs.google.com/forms/d/e/1FAIpQLSfelV7Q0BK7YsSzrlW2TH9DGLsgJ7Ik7XWBiuYtAmENJeGmJw/viewform?usp=dialog">this form<a/> or email jean-baptiste.cadart@proton.me
 
 **First Talk :** <a href="https://www.uni-saarland.de/lehrstuhl/lazic/prof-dr-vladimir-lazic/vladimir-lazic-where-i-stand-on-ai.html">Vladimir Lazić</a> - Discussion and debate from "Where I stand on AI". Thursday 29, 9-10:30 a.m. UTC+2 (Paris Time).
 
